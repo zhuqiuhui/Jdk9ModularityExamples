@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.zqh.people.api/com.zqh.people.api.iml" filepath="$PROJECT_DIR$/com.zqh.people.api/com.zqh.people.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.zqh.people.client/com.zqh.people.client.iml" filepath="$PROJECT_DIR$/com.zqh.people.client/com.zqh.people.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.zqh.people.female/com.zqh.people.female.iml" filepath="$PROJECT_DIR$/com.zqh.people.female/com.zqh.people.female.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.zqh.people.male/com.zqh.people.male.iml" filepath="$PROJECT_DIR$/com.zqh.people.male/com.zqh.people.male.iml" />
+      <module fileurl="file://$PROJECT_DIR$/people-service.iml" filepath="$PROJECT_DIR$/people-service.iml" />
+    </modules>
+  </component>
+</project>
